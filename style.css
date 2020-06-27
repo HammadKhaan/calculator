@@ -1,0 +1,37 @@
+.main{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    border: 2px solid black;
+    width: 250px;
+    height: 500px;
+    background-color: darkcyan;
+}
+button{
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: 1px 1px 1px 3px grey;
+    
+}
+
+.result{
+    height: 45px;
+    width: 180px;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.clear
+{
+margin-top: 10px;
+}
+.clear1{
+    margin-right: 11px;    
+
+}
+.btn2{
+    margin-right: 11px;
+}
+.equals{
+    margin-left: 110px;
+}
